@@ -18,7 +18,9 @@ This git repository contains files for the project in the module Fundamentals fo
 # Project Plan Check List
 
 **1 - History of the Box Plot**
-- [] 
+- [] History
+- [] Types of box plots
+- [] Diagram of box plot
 
 **2 - Demonstrate the use of the box plot**
 - [] Dataset
