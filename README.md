@@ -33,10 +33,11 @@ This git repository contains files for the project in the module Fundamentals fo
 - [] Percentile
 - [] Outliers
 - [] Suspected outliers
-- [] 
 
 
 **4 - Compare box plots to alternatives**
-- [] 
+- [] to histograms
+- [] to scatter plots
+
 
 
