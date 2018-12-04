@@ -17,33 +17,24 @@ This git repository contains files for the project in the module Fundamentals fo
 
 # Project Plan Check List
 
-**1 - .......**
-- [] 
-- [] 
-
-**2 - ......**
-- [] 
-- [] 
+**1 - History of the Box Plot**
 - [] 
 
-**3 - .......**
-- [] 
-- [] 
-- [] 
-- [] 
+**2 - Demonstrate the use of the box plot**
+- [] Dataset
+- [] Plots
 
-**4 - ...............**
+
+
+**3 - Relevant Terminology**
+- [] Quartile
+- [] Percentile
+- [] Outliers
+- [] Suspected outliers
 - [] 
 
 
-**5 - ..............**
+**4 - Compare box plots to alternatives**
 - [] 
 
-**6 - ...........**
-- [] 
 
-**7 - ..............**
-- [] 
-
-**8 - .................**
-- [] 
