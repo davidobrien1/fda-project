@@ -17,25 +17,18 @@ This git repository contains files for the project in the module Fundamentals fo
 
 # Project Plan Check List
 
-**1 - History of the Box Plot**
-- [] History
-- [] Types of box plots
-- [] Diagram of box plot
+**1 - The Box Plot**
+- [x] History
+- [x] Diagram of box plot
+- [x] Quartile
+- [x] Percentile
+- [x] Outliers
 
 **2 - Demonstrate the use of the box plot**
-- [] Dataset
-- [] Plots
+- [x] Dataset
+- [x] Plots
 
-
-
-**3 - Relevant Terminology**
-- [] Quartile
-- [] Percentile
-- [] Outliers
-- [] Suspected outliers
-
-
-**4 - Compare box plots to alternatives**
+**3 - Compare box plots to alternatives**
 - [] to histograms
 - [] to scatter plots
 
